@@ -11,3 +11,4 @@
 <button class="p-2 bg-blue-500 text-white rounded-lg" on:click={onClick}>
 	Kliknil si me {x}-krat
 </button>
+ime
